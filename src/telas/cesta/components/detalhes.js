@@ -1,7 +1,5 @@
 import React from "react";
 import { Image, View, StyleSheet, TouchableOpacity, Text } from "react-native";
-import Texto from "../../../components/texto";
-// import logo from "../../../../assets/logo.png";
 
 export default function Detalhes({
   nome,
